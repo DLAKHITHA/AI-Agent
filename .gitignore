@@ -1,7 +1,5 @@
 venv/
 __pycache__/
 .env
-.env.*
-*.pyc
-.cache/
-.streamlit/
+node_modules/
+.DS_Store
